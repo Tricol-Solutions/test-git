@@ -3,3 +3,5 @@ Hello from h.txt
 Changed from GITHUB
 
 CHANGED FROM LOCAL REPO
+
+CHANGES FROM FEATURE-2
