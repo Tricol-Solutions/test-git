@@ -1,1 +1,22 @@
 Hello From Goutam - DevOps training
+
+Changed from testing/test-git
+
+
+git clone <URL> - To get remote repo on local - It will by default create origin 
+
+cd test-git
+
+git remote add origin <URL>
+
+git fetch origin - To fetch the status of remote repo, All branches will fetched
+
+git checkout branch
+
+DO THE CHANGES
+
+git add .
+
+git commit -m "Message"
+
+git push origin branch
